@@ -1,0 +1,8 @@
+﻿  Source1.cpp
+C:\Users\professeur\Documents\projectcmake\Project1cmake\Source1.cpp(38,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\professeur\Documents\projectcmake\Project1cmake\Source1.cpp(87,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\professeur\Documents\projectcmake\Project1cmake\Source1.cpp(130,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\professeur\Documents\projectcmake\Project1cmake\Source1.cpp(131,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\professeur\Documents\projectcmake\Project1cmake\Source1.cpp(131,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\professeur\Documents\projectcmake\Project1cmake\Source1.cpp(132,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project1cmake.vcxproj -> C:\Users\professeur\Documents\projectcmake\Project1cmake\x64\Debug\Project1cmake.exe
